@@ -1,6 +1,7 @@
 SLOPE CE — v0.18
 
-A "vibe-coded" port of Slope for the TI-84 Plus CE calculator. The original Slope was made by Rob Kay and published by Y8 Games.
+A "vibe-coded" ( ai slop ) port of Slope for the TI-84 Plus CE calculator. The original Slope was made by Rob Kay and published by Y8 Games.
+Personally it doesn't look as bad as i thought. I last used AI's for coding about 2 years ago, the growth has been immensly linear.
 
 
 
